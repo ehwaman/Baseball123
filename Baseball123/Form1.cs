@@ -34,6 +34,7 @@ namespace Baseball123
 
                 if (value3 != 0)
                     break;
+
             }
 
             //난수 생성으로 만들어진 서로 다른 3자리 숫자를 합침 = 찾아야 할 3자리 숫자
